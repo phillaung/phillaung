@@ -1,5 +1,7 @@
 ###  👋 Hi there, Wecome to my github
 # I'm Phil, nice to meet you
+
+#### I'm a LA based full stack developer with a keen eye for perfection. This is my personal github, and I'm studying at the General Assembly Software Engineering Bootcamp. I love problem solving, building programs, and working with other people.
 <!--
 **phillaung/phillaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
