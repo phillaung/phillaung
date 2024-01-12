@@ -1,4 +1,4 @@
-###  👋 Hi there, Wecome to my github
+###  👋 Hi there, Wecome
 # I'm Phil, nice to meet you
 
 #### I'm a LA based full stack developer with a keen eye for perfection. This is my personal github, and I'm studying at the General Assembly Software Engineering Bootcamp. I love problem solving, building programs, and working with other people.
